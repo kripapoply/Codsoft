@@ -17,3 +17,5 @@ A recommendation system that suggests movies based on user-selected genres.
 
 ## Author
 Kripa Popli
+B.Tech Computer Science
+Manav Rachna University
